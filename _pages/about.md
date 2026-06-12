@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Hello!**
+## **Hello!**
 
 I am a PhD candidate in Economics at the University of Luxembourg, working at the intersection of development economics and economic geography.
 
