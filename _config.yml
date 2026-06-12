@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Evie Graus"
 title_separator          : "-"
 name                     : &name "Evie Graus"
-description              : &description "PhD Candidate in Economics, University of Luxembourg"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate in Economics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://eviegraus.github.io # The base hostname & protocol for your site e.g. "https://eviegraus.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
