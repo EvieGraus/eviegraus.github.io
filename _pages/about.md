@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello! 
+**Hello!** 
 
-I am a PhD candidate in Economics at the University of Luxembourg. My research lies at the intersection of development economics and economic geography. I use geospatial data and causal econometric methods to study sustainable and inclusive development, with a focus on road infrastructure in Sub-Saharan Africa.
+I am a PhD candidate in Economics at the University of Luxembourg. My research is motivated by a broad question: how can infrastructure support sustainable and inclusive development in Sub-Saharan Africa?
 
-My current work examines the effects of transport infrastructure on child health, environmental outcomes, spatial redistribution of economic activity, and women empowerment.
+I work at the intersection of development economics and economic geography, using geospatial data, household surveys, and causal econometric methods. My current projects study how road infrastructure affects child health, regional development, environmental outcomes, and women’s empowerment.
+
+More broadly, I am interested in who benefits from infrastructure investments, where these gains take place, and the trade-offs that arise when infrastructure, urbanization, and environmental pressures interact.
