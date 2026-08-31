@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](/files/CV Evie Graus June 2026.pdf).
+You can find my CV [here](/files/CV Evie Graus August 2026.pdf).
